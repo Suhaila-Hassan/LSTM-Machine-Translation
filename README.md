@@ -7,9 +7,12 @@ It includes:
 - Translation inference
 
 ## Dataset
-We use the Opus Books dataset from Hugging Face, which provides aligned bilingual data.
-Split Used: 25% of dataset was used for training
+Opus Books dataset from Hugging Face.
+
+25% of the dataset was used for training the translation model.
+
 Source Language: English (en)
+
 Target Language: French (fr)
 
 ## Model Architecture
